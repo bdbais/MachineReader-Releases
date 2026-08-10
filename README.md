@@ -1,11 +1,11 @@
-# MachineReader - download beta
+# MachineReader — download beta
 
 Repository pubblico per il download delle versioni beta di MachineReader.
 
 ## Installazione
 
-1. Aprire la sezione **Releases**.
-2. Scaricare il file `MachineReader-0.1.0-beta01.apk`.
+1. Scaricare [MachineReader 0.1.0 beta 02](downloads/MachineReader-0.1.0-beta02.apk).
+2. Se necessario, consultare il [manuale utente](downloads/Manuale_utente_MachineReader_Beta.pdf).
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
@@ -17,4 +17,6 @@ Il codice sorgente è conservato in un repository privato. Questo repository con
 
 ## Aggiornamenti
 
-L'app controlla le release pubblicate qui e propone all'utente l'apertura della nuova versione quando disponibile. La decisione di scaricare e installare resta sempre esplicita.
+L'app controlla il file pubblico `latest.json` e propone il download quando è disponibile una versione più recente. La decisione di scaricare e installare resta sempre esplicita.
+
+Non viene utilizzata la sezione GitHub Releases, così GitHub non mostra pacchetti automatici denominati “Source code”.
