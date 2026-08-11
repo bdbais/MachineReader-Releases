@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.0-beta05",
-  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-0.1.0-beta05.apk",
-  "notes": "Aggiunto archivio condiviso cifrato per più dispositivi tramite Drive, OneDrive o file. Accesso protetto dalla stessa password comune."
+  "versionCode": 6,
+  "versionName": "0.1.0-beta06",
+  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-0.1.0-beta06.apk",
+  "notes": "Nuovo flusso Clienti-Macchine-Letture, cattura rapida da home, storico persistente con originali, PDF e Markdown, fornitore e norme modificabili, impostazioni scorrevoli e temi compatti."
 }
