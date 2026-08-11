@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.0-beta08",
+  "versionCode": 9,
+  "versionName": "0.1.0-beta09",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "Comandi Fotocamera e Foto in basso per l’uso con una mano; creazione di una nuova macchina durante l’assegnazione senza perdere le immagini; controllo aggiornamenti evidente nella pagina Informazioni."
+  "notes": "Editor completo dei parametri delle norme: soglia, comparatore, unità, visibilità nell’app e stampa nel PDF, con aggiunta ed eliminazione dei parametri."
 }

@@ -9,7 +9,7 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
-La beta 08 sposta i comandi Fotocamera e Foto in basso per l’uso con una mano, consente di creare una macchina durante l’assegnazione senza perdere le immagini e rende evidente il controllo aggiornamenti nella pagina Informazioni.
+La beta 09 aggiunge la gestione completa dei parametri delle norme: soglia, comparatore, unità di misura, visibilità nell’app e stampa nel PDF. È inoltre possibile aggiungere o eliminare parametri.
 
 ## Avvertenze
 
