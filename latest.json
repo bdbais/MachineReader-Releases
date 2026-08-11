@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.1.0-beta07",
-  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-0.1.0-beta07.apk",
-  "notes": "Aggiunta pagina Informazioni sull’app con versione installata e changelog completo consultabile offline. Include tutte le correzioni del flusso beta06."
+  "versionCode": 8,
+  "versionName": "0.1.0-beta08",
+  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
+  "notes": "Comandi Fotocamera e Foto in basso per l’uso con una mano; creazione di una nuova macchina durante l’assegnazione senza perdere le immagini; controllo aggiornamenti evidente nella pagina Informazioni."
 }
