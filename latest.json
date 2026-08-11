@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.1.0-beta11",
+  "versionCode": 12,
+  "versionName": "0.1.0-beta12",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "Firma e operatore nel PDF; letture modificabili, clonabili ed eliminabili; modalità sequenziale; scanner multipagina; carta intestata; originali opzionali; importazione strumenti ed esportazione Excel; data e ora EXIF; norme EN 61010 ed EN 62353."
+  "notes": "Terminologia uniforme Strumenti; esportazione Excel disabilitata senza strumenti e rinominata Esporta elenco su Excel; carta intestata configurabile direttamente nei dati del fornitore e usata nei PDF."
 }

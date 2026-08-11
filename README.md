@@ -9,6 +9,13 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 12
+
+- sostituiti nell’interfaccia e nei documenti tutti i riferimenti a macchina/macchine con strumento/strumenti;
+- il pulsante **Esporta elenco su Excel** è disabilitato quando il cliente non ha strumenti;
+- aggiunta icona Excel al comando di esportazione;
+- carta intestata configurabile direttamente nella modifica dei dati del fornitore e utilizzata nella testata dei PDF.
+
 ## Novità beta 11
 
 - firma a video e nome operatore incorporati in ogni PDF;
