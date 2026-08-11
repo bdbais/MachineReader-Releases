@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.1.0-beta04",
-  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-0.1.0-beta04.apk",
-  "notes": "Aggiunti logo e allegati cifrati per fornitore e clienti: fotografie, biglietti da visita, immagini delle macchine e documenti."
+  "versionCode": 5,
+  "versionName": "0.1.0-beta05",
+  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-0.1.0-beta05.apk",
+  "notes": "Aggiunto archivio condiviso cifrato per più dispositivi tramite Drive, OneDrive o file. Accesso protetto dalla stessa password comune."
 }
