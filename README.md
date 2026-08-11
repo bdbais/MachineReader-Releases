@@ -9,7 +9,7 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
-La beta 09 aggiunge la gestione completa dei parametri delle norme: soglia, comparatore, unità di misura, visibilità nell’app e stampa nel PDF. È inoltre possibile aggiungere o eliminare parametri.
+La beta 10 permette di condividere immediatamente il backup cifrato tramite WhatsApp, email, Drive o altre app. Distingue chiaramente backup e archivio condiviso, propone “Condividi ora” dopo la creazione e gestisce l’annullamento dei file incompleti.
 
 ## Avvertenze
 

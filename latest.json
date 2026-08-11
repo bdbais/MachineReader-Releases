@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.0-beta09",
+  "versionCode": 10,
+  "versionName": "0.1.0-beta10",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "Editor completo dei parametri delle norme: soglia, comparatore, unità, visibilità nell’app e stampa nel PDF, con aggiunta ed eliminazione dei parametri."
+  "notes": "Backup cifrato condivisibile subito tramite WhatsApp, email, Drive o altre app; flusso più chiaro e gestione dei file incompleti in caso di annullamento."
 }
