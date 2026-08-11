@@ -4,12 +4,12 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 
 ## Installazione
 
-1. Scaricare [MachineReader 0.1.0 beta 06](downloads/MachineReader-0.1.0-beta06.apk).
+1. Scaricare [MachineReader 0.1.0 beta 07](downloads/MachineReader-0.1.0-beta07.apk).
 2. Se necessario, consultare il [manuale utente](downloads/Manuale_utente_MachineReader_Beta.pdf).
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
-La beta 06 introduce il nuovo flusso Clienti-Macchine-Letture, cattura rapida da home, storico persistente con originali, PDF e Markdown, modifica fornitore e norme e impostazioni completamente scorrevoli.
+La beta 07 aggiunge Informazioni sull’app con versione e changelog offline e include il nuovo flusso Clienti-Macchine-Letture, cattura rapida, storico con originali, PDF e Markdown, modifica fornitore e norme e impostazioni scorrevoli.
 
 ## Avvertenze
 

@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.0-beta06",
-  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-0.1.0-beta06.apk",
-  "notes": "Nuovo flusso Clienti-Macchine-Letture, cattura rapida da home, storico persistente con originali, PDF e Markdown, fornitore e norme modificabili, impostazioni scorrevoli e temi compatti."
+  "versionCode": 7,
+  "versionName": "0.1.0-beta07",
+  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-0.1.0-beta07.apk",
+  "notes": "Aggiunta pagina Informazioni sull’app con versione installata e changelog completo consultabile offline. Include tutte le correzioni del flusso beta06."
 }
