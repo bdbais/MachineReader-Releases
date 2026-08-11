@@ -9,7 +9,20 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
-La beta 10 permette di condividere immediatamente il backup cifrato tramite WhatsApp, email, Drive o altre app. Distingue chiaramente backup e archivio condiviso, propone “Condividi ora” dopo la creazione e gestisce l’annullamento dei file incompleti.
+## Novità beta 11
+
+- firma a video e nome operatore incorporati in ogni PDF;
+- modifica, clonazione, eliminazione e rigenerazione PDF delle letture;
+- modalità sequenziale per verificare più strumenti con una sola firma;
+- scanner multipagina con ritaglio, rotazione e miglioramento automatici;
+- immagini originali mostrate prima dei dati OCR e allegabili al PDF su scelta;
+- carta intestata del fornitore da fotografia, immagine o PDF, senza etichetta “Fornitore” nella stampa;
+- `ESITO: SUPERATO / NON SUPERATO` in testata e righe “NON CONTROLLATO” escluse;
+- importazione elenco strumenti tramite modello CSV modificabile con Excel;
+- esportazione Excel compatibile con cliente, strumenti e storico letture;
+- data e ora ricavate dai metadati EXIF quando disponibili, sempre verificabili e modificabili;
+- norme predefinite corrette: EN 61010 CL I, EN 61010 CL II ed EN 62353 CL I/BF;
+- navigazione Back corretta, doppio Back entro 5 secondi per uscire e sessione mantenuta alla rotazione.
 
 ## Avvertenze
 

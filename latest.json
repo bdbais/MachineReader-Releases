@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.1.0-beta10",
+  "versionCode": 11,
+  "versionName": "0.1.0-beta11",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "Backup cifrato condivisibile subito tramite WhatsApp, email, Drive o altre app; flusso più chiaro e gestione dei file incompleti in caso di annullamento."
+  "notes": "Firma e operatore nel PDF; letture modificabili, clonabili ed eliminabili; modalità sequenziale; scanner multipagina; carta intestata; originali opzionali; importazione strumenti ed esportazione Excel; data e ora EXIF; norme EN 61010 ed EN 62353."
 }
