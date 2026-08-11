@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.0-beta03",
-  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-0.1.0-beta03.apk",
-  "notes": "Corretto il salvataggio dei dati anagrafici. Aggiunti archivio cifrato reale, gestione clienti e macchine, fotocamera, scelta multipla delle immagini e lettura OCR modificabile."
+  "versionCode": 4,
+  "versionName": "0.1.0-beta04",
+  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-0.1.0-beta04.apk",
+  "notes": "Aggiunti logo e allegati cifrati per fornitore e clienti: fotografie, biglietti da visita, immagini delle macchine e documenti."
 }
