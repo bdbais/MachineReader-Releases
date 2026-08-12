@@ -9,6 +9,13 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 14
+
+- controllo automatico degli aggiornamenti dopo l’accesso;
+- dialog semplice con versione, note, **Scarica aggiornamento** e **Più tardi**;
+- eventuali problemi di rete non interrompono l’avvio o il lavoro;
+- procedura descritta nel manuale, insieme al controllo manuale nelle informazioni dell’app.
+
 ## Novità beta 13
 
 - archivio multi-operatore configurabile su una cartella condivisa Drive, OneDrive, Dropbox o locale;
