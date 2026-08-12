@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.1.0-beta12",
+  "versionCode": 13,
+  "versionName": "0.1.0-beta13",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "Terminologia uniforme Strumenti; esportazione Excel disabilitata senza strumenti e rinominata Esporta elenco su Excel; carta intestata configurabile direttamente nei dati del fornitore e usata nei PDF."
+  "notes": "Archivio multi-operatore su cartella condivisa Drive/OneDrive/Dropbox o locale; sincronizzazione automatica e manuale tramite pacchetti cifrati; fusione conservativa; audit creatore e date di clienti e strumenti esportato in Excel."
 }

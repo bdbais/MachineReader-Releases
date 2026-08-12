@@ -9,6 +9,16 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 13
+
+- archivio multi-operatore configurabile su una cartella condivisa Drive, OneDrive, Dropbox o locale;
+- pacchetti `.mrsync` cifrati e separati per operatore, senza sovrascrivere quelli precedenti;
+- controllo automatico all’avvio e pulsante **Sincronizza ora**;
+- fusione additiva e deduplicata di clienti, strumenti, letture e allegati;
+- conflitti conteggiati e dati locali conservati senza sovrascrittura silenziosa;
+- audit semplificato con creatore, data di creazione, ultimo modificatore e ultima modifica;
+- dati audit inclusi nell’esportazione Excel.
+
 ## Novità beta 12
 
 - sostituiti nell’interfaccia e nei documenti tutti i riferimenti a macchina/macchine con strumento/strumenti;
