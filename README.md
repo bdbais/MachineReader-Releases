@@ -9,6 +9,16 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 15
+
+- dimensione testo selezionabile tra Compatta, Normale e Grande, con adattamento automatico sui display stretti;
+- etichette principali accorciate o mantenute su una sola riga;
+- firma con sfondo trasparente, anche durante la rigenerazione di firme salvate in precedenza;
+- carta intestata ritagliata, centrata, orientata e ravvivata automaticamente senza deformazioni;
+- eliminata la colonna Esito dalla tabella delle misure: SUPERATO/NON SUPERATO compare soltanto come esito complessivo in testata;
+- nuovo pulsante **Rigenera PDF** per applicare al rapporto i dati aggiornati di fornitore, cliente e strumento senza rifare la lettura;
+- manuale aggiornato con il nuovo flusso.
+
 ## Novità beta 14
 
 - controllo automatico degli aggiornamenti dopo l’accesso;

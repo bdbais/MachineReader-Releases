@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.1.0-beta14",
+  "versionCode": 15,
+  "versionName": "0.1.0-beta15",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "Avviso automatico dopo l'accesso quando è disponibile una nuova versione, con note, Scarica aggiornamento e Più tardi; il controllo manuale resta disponibile nelle informazioni dell'app."
+  "notes": "Tre dimensioni del testo con adattamento sui display stretti; firma PDF trasparente; carta intestata centrata e con colori migliorati; eliminata la colonna Esito delle misure; aggiunto Rigenera PDF con i dati anagrafici aggiornati."
 }
