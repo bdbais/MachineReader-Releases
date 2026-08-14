@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "0.1.0-beta16",
+  "versionCode": 17,
+  "versionName": "0.1.0-beta17",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "La sincronizzazione dell’archivio condiviso parte automaticamente dopo l’accesso. Nelle Impostazioni è possibile disattivare l’automatismo senza scollegare la cartella; Sincronizza ora resta sempre disponibile."
+  "notes": "Nuovo inserimento manuale delle letture: dalla home oppure dopo aver scelto cliente e strumento, si seleziona la norma e si compilano i parametri. L’origine manuale è dichiarata nel Markdown ma non nel PDF."
 }

@@ -9,6 +9,17 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 17
+
+- nuova icona **Inserisci dati manualmente** accanto a Fotocamera e Immagini nella home;
+- percorso alternativo dalla scheda dello strumento già selezionato;
+- scelta obbligatoria della norma prima della compilazione dei parametri;
+- compilazione manuale di valori, data, ora, esito complessivo, operatore e firma;
+- possibilità di creare un nuovo strumento durante il percorso rapido;
+- il PDF conserva il normale formato del rapporto;
+- il Markdown dichiara esplicitamente che i dati sono stati caricati a mano e non provengono dall’OCR;
+- manuale e changelog aggiornati.
+
 ## Novità beta 16
 
 - sincronizzazione automatica dell’archivio condiviso dopo l’accesso, attiva per impostazione predefinita;
