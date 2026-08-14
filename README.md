@@ -9,6 +9,14 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 16
+
+- sincronizzazione automatica dell’archivio condiviso dopo l’accesso, attiva per impostazione predefinita;
+- nuovo interruttore **Sincronizza all’avvio** nelle Impostazioni;
+- disattivando l’automatismo la cartella resta collegata e **Sincronizza ora** continua a funzionare;
+- riepilogo più chiaro con stato dell’automatismo e data dell’ultimo controllo;
+- manuale aggiornato con il nuovo comportamento.
+
 ## Novità beta 15
 
 - dimensione testo selezionabile tra Compatta, Normale e Grande, con adattamento automatico sui display stretti;
