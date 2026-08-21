@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.1.0-beta17",
+  "versionCode": 18,
+  "versionName": "0.1.0-beta18",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "Nuovo inserimento manuale delle letture: dalla home oppure dopo aver scelto cliente e strumento, si seleziona la norma e si compilano i parametri. L’origine manuale è dichiarata nel Markdown ma non nel PDF."
+  "notes": "Controllo preventivo delle fotografie: le immagini estranee o insufficienti vengono rifiutate senza creare valori. Rimossi i valori dimostrativi usati come ripiego OCR. Le possibili norme sconosciute vengono segnalate e richiedono configurazione e verifica umana."
 }

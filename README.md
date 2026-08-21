@@ -9,6 +9,16 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 18
+
+- controllo preventivo dell'intera serie di fotografie prima di creare la lettura;
+- rifiuto delle immagini prive di sufficienti riferimenti a norma, parametri tecnici, unità di misura o esito;
+- eliminato il precedente ripiego che compilava i parametri mancanti con valori dimostrativi;
+- i parametri non riconosciuti restano vuoti e vengono segnalati come da controllare;
+- riconoscimento dell'esito `SUPERATO` o `NON SUPERATO` anche quando compare soltanto nell'ultima pagina;
+- segnalazione delle possibili norme EN/IEC/CEI non configurate, senza generare automaticamente soglie o parametri non verificati;
+- test automatici, changelog interno e manuale aggiornati.
+
 ## Novità beta 17
 
 - nuova icona **Inserisci dati manualmente** accanto a Fotocamera e Immagini nella home;
