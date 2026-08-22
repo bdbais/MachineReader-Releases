@@ -9,6 +9,22 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 19
+
+- nuova procedura obbligatoria di pubblicazione in due fasi;
+- l'APK versionato viene pubblicato prima senza modificare il collegamento Latest;
+- il file viene riscaricato dal repository pubblico e confrontato con SHA-256;
+- firma, struttura ZIP, versione interna, installazione e avvio vengono verificati automaticamente;
+- `MachineReader-latest.apk` viene aggiornato soltanto dopo il superamento di tutti i controlli;
+- la beta precedente rimane disponibile per il ripristino;
+- manuale aggiornato con la procedura in caso di download incompleto o pacchetto non valido.
+
+### Verifica beta 19
+
+- SHA-256: `FD538C77C995B70FB05D69948109C108F5F2AFCE0C54249D8DBB114671B622ED`
+- certificato SHA-256: `8a5e03eba7ba28786d2956aabcb12da21269bb5041b09f5f996b3e7d7ad899f8`
+- installazione e avvio: superati su `MachineReader_API34`.
+
 ## Novità beta 18
 
 - controllo preventivo dell'intera serie di fotografie prima di creare la lettura;

@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.1.0-beta18",
+  "versionCode": 19,
+  "versionName": "0.1.0-beta19",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "Controllo preventivo delle fotografie: le immagini estranee o insufficienti vengono rifiutate senza creare valori. Rimossi i valori dimostrativi usati come ripiego OCR. Le possibili norme sconosciute vengono segnalate e richiedono configurazione e verifica umana."
+  "notes": "Ripubblicazione verificata end-to-end. L'APK è stato riscaricato dal canale pubblico, confrontato tramite SHA-256, verificato con apksigner e zipalign, installato e avviato sull'emulatore dedicato. La beta precedente resta disponibile."
 }
