@@ -9,6 +9,20 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 21
+
+- elenco clienti più compatto, ordinato e immediatamente leggibile;
+- schede con icona cliente, nome, numero di strumenti, modifica e apertura rapida;
+- barra di acquisizione estesa su tutta la larghezza della home;
+- Fotocamera, Immagini e Inserimento manuale occupano tre spazi uguali;
+- area di tocco alta 64 dp, adatta all'uso con una mano;
+- test UI dedicato superato sull'emulatore `MachineReader_API34`;
+- manuale aggiornato.
+
+### Verifica beta 21
+
+- pubblicazione e verifica end-to-end in corso; Latest resta sulla beta 20 fino al completamento.
+
 ## Novità beta 20
 
 - pulsanti d'azione adattivi alla larghezza reale disponibile;
