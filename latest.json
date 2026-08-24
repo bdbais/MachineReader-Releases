@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.1.0-beta20",
+  "versionCode": 21,
+  "versionName": "0.1.0-beta21",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "Pulsanti adattivi: icona e testo restano sulla stessa riga anche su display stretti e con caratteri ingranditi. Spaziatura e testo si adattano senza ridurre l'area di tocco. APK verificato end-to-end prima della promozione a Latest."
+  "notes": "Home migliorata: elenco clienti più compatto e leggibile; Fotocamera, Immagini e Inserimento manuale riempiono tutta la larghezza in tre pulsanti uguali. APK verificato end-to-end prima della promozione a Latest."
 }
