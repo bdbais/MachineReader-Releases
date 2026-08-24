@@ -9,6 +9,19 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 20
+
+- pulsanti d'azione adattivi alla larghezza reale disponibile;
+- icona e testo restano sulla stessa riga anche con display stretto o caratteri Android ingranditi;
+- spaziatura e dimensione del testo si riducono gradualmente soltanto quando necessario;
+- area di tocco dei comandi invariata, per mantenere semplicità e accessibilità;
+- corretti in particolare i comandi affiancati **Modifica** e **Clona**;
+- manuale aggiornato con il nuovo comportamento.
+
+### Verifica beta 20
+
+- pubblicazione e verifica end-to-end in corso; il collegamento Latest resta sulla beta precedente fino al completamento dei controlli.
+
 ## Novità beta 19
 
 - nuova procedura obbligatoria di pubblicazione in due fasi;
