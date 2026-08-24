@@ -20,7 +20,9 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 
 ### Verifica beta 20
 
-- pubblicazione e verifica end-to-end in corso; il collegamento Latest resta sulla beta precedente fino al completamento dei controlli.
+- SHA-256: `AE577F09DBD2922DDB66248CFD6F85AEB274FF5FC5F6E042DA3A7AC6FE230C9D`
+- certificato SHA-256: `8a5e03eba7ba28786d2956aabcb12da21269bb5041b09f5f996b3e7d7ad899f8`
+- firma, ZIP alignment, metadati, installazione e avvio: superati su `MachineReader_API34`.
 
 ## Novità beta 19
 

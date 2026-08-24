@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "0.1.0-beta19",
+  "versionCode": 20,
+  "versionName": "0.1.0-beta20",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "Ripubblicazione verificata end-to-end. L'APK è stato riscaricato dal canale pubblico, confrontato tramite SHA-256, verificato con apksigner e zipalign, installato e avviato sull'emulatore dedicato. La beta precedente resta disponibile."
+  "notes": "Pulsanti adattivi: icona e testo restano sulla stessa riga anche su display stretti e con caratteri ingranditi. Spaziatura e testo si adattano senza ridurre l'area di tocco. APK verificato end-to-end prima della promozione a Latest."
 }
