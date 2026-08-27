@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.1.0-beta21",
+  "versionCode": 22,
+  "versionName": "0.1.0-beta22",
   "apkUrl": "https://github.com/bdbais/MachineReader-Releases/raw/refs/heads/main/downloads/MachineReader-latest.apk",
-  "notes": "Home migliorata: elenco clienti più compatto e leggibile; Fotocamera, Immagini e Inserimento manuale riempiono tutta la larghezza in tre pulsanti uguali. APK verificato end-to-end prima della promozione a Latest."
+  "notes": "Protezione dell'archivio molto piu' forte: i dati sono leggibili solo con la tua password o dopo il riconoscimento biometrico. PRIMA DI AGGIORNARE crea un backup cifrato dalle Impostazioni. Al primo accesso l'archivio viene riscritto con la nuova protezione: puo' richiedere qualche decina di secondi, non chiudere l'app; la password resta quella di prima. L'accesso con impronta o volto va riattivato una volta da Impostazioni, Sicurezza, dove ora si cambia anche la password di accesso. Inoltre: riblocco automatico dopo un'assenza, anteprima nelle app recenti oscurata, fotografia dello strumento, rapporti PDF su piu' pagine."
 }

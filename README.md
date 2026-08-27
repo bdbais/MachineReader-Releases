@@ -9,6 +9,33 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 22
+
+- la chiave che cifra l'archivio non esiste più in chiaro sul dispositivo: è custodita avvolta dalla password e, con accesso biometrico attivo, da una chiave protetta dall'autenticazione dell'utente;
+- senza password né autenticazione i dati non sono leggibili nemmeno con accesso fisico al telefono;
+- gli archivi delle versioni precedenti vengono riscritti alla prima apertura, mantenendo la stessa password;
+- cambio della password di accesso dalle Impostazioni, senza riscrivere l'archivio;
+- accesso con impronta o volto automatico all'avvio, attivabile e disattivabile in qualsiasi momento;
+- riblocco automatico dopo un'assenza configurabile, senza perdere la verifica in corso;
+- anteprima nelle app recenti oscurata e screenshot bloccati;
+- fotografie dei display conservate dentro l'app, non più nella galleria del telefono;
+- copia di sicurezza dell'archivio a ogni salvataggio, con ripristino automatico;
+- pacchetti condivisi illeggibili saltati invece di bloccare la sincronizzazione;
+- fotografia dello strumento accanto al link del manuale;
+- rapporti PDF impaginati su più fogli, con avviso stampato sui dati inseriti a mano;
+- norma ambigua fra due classi rifiutata invece che indovinata.
+
+### Prima di aggiornare
+
+Creare un backup cifrato dalle Impostazioni. Al primo accesso l'archivio viene riscritto: l'attesa cresce con la quantità di allegati, non chiudere l'app. L'accesso con impronta o volto va riattivato una volta.
+
+### Verifica beta 22
+
+- SHA-256: `98D78E97A46AD4D820DB133121E38008E3CF84026B29F3F2E2CDC3CF2E35FED9`
+- certificato SHA-256: `8a5e03eba7ba28786d2956aabcb12da21269bb5041b09f5f996b3e7d7ad899f8`
+- firma, ZIP alignment, metadati, aggiornamento sul posto sopra la beta 21, installazione e avvio: superati su `MachineReader_API34`;
+- 38 test strumentati, 8 test unitari e scambio fra due operatori su due dispositivi: superati.
+
 ## Novità beta 21
 
 - elenco clienti più compatto, ordinato e immediatamente leggibile;
