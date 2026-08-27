@@ -4,10 +4,27 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 
 ## Installazione
 
-1. Scaricare **[LATEST APK — ultima beta](downloads/MachineReader-latest.apk)**. Il collegamento punta direttamente al file da installare, senza pagine intermedie.
+1. Scaricare **[LATEST APK — ultima beta](https://github.com/bdbais/MachineReader-Releases/releases/latest)** dalla pagina delle release. Il collegamento punta direttamente al file da installare, senza pagine intermedie.
 2. Se necessario, consultare il [manuale utente](downloads/Manuale_utente_MachineReader_Beta.pdf).
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
+
+## Novità beta 23
+
+- pacchetto ridotto da 89 MB a **19 MB**: rimosso il codice non utilizzato e le librerie per architetture che i telefoni non usano;
+- download molto più rapido e meno attesa durante il controllo di sicurezza di Android;
+- riparato il pulsante «Inserisci dati manualmente» dentro la schermata dello strumento, che non produceva alcun effetto;
+- ora compare anche l'avviso di salvataggio non riuscito mentre si sta compilando una verifica;
+- nomi leggibili conservati nelle segnalazioni di errore, per facilitare la prova sul campo.
+
+Per i pochi telefoni a 32 bit è disponibile [MachineReader-0.1.0-beta23-armeabi-v7a.apk](downloads/MachineReader-0.1.0-beta23-armeabi-v7a.apk). Se l'installazione del file principale segnala «app non installata», usare quello.
+
+### Verifica beta 23
+
+- SHA-256: `6C1D1E85622BE8DE25C3DB65271F175A3C1B718AC3500087925EB42F6B82447D`
+- certificato SHA-256: `8a5e03eba7ba28786d2956aabcb12da21269bb5041b09f5f996b3e7d7ad899f8`
+- firma, ZIP alignment, metadati, identità del codice fra pacchetto pubblicato e gemello di prova, aggiornamento sul posto sopra la beta 21, installazione e avvio: superati;
+- 39 test strumentati e 8 unitari superati; inserimento manuale completo fino al PDF firmato provato sul pacchetto ridotto.
 
 ## Novità beta 22
 
