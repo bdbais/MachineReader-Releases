@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "0.1.0-beta25",
-  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/releases/download/v0.1.0-beta25/MachineReader-0.1.0-beta25.apk",
-  "notes": "Se avevi una password imposta dalle versioni precedenti, al primo accesso l'app ti chiede una volta sola se tenerla o toglierla: fino alla beta23 era obbligatoria e nessuno l'aveva davvero scelta. Puoi cambiare idea quando vuoi da Impostazioni, Sicurezza. Senza password l'archivio resta cifrato e legato al telefono, ma chi lo ha in mano puo' aprire l'app; togliendola decade anche l'accesso con impronta o volto, che protegge la stessa chiave."
+  "versionCode": 26,
+  "versionName": "0.1.0-beta26",
+  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/releases/download/v0.1.0-beta26/MachineReader-0.1.0-beta26.apk",
+  "notes": "Nell'elenco clienti un interruttore accanto al titolo alterna due ordini: dall'ultimo cliente usato oppure alfabetico. Tenendo premuto la scritta Clienti si apre una ricerca rapida; il filtro resta visibile accanto al titolo con una x per cancellarlo."
 }

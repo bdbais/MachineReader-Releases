@@ -9,6 +9,22 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 26
+
+- nell'elenco clienti un **interruttore accanto al titolo** alterna due ordini: dall'ultimo cliente usato, oppure alfabetico;
+- i clienti mai aperti restano in fondo, fra loro in ordine di nome;
+- il momento dell'ultimo utilizzo resta sul dispositivo e non entra nell'archivio: è una comodità personale dell'operatore, non un dato da condividere;
+- **tenendo premuta la scritta «Clienti»** si apre una ricerca rapida;
+- il filtro attivo resta visibile accanto al titolo, con una x per cancellarlo.
+
+### Verifica beta 26
+
+- SHA-256: `4008B5AEE9052EBCA9F11200FB3327DFCC39A6744D4DEDC67734359C75A39974`
+- certificato SHA-256: `8a5e03eba7ba28786d2956aabcb12da21269bb5041b09f5f996b3e7d7ad899f8`
+- firma, ZIP alignment, metadati, identità del codice fra pacchetto pubblicato e gemello di prova, aggiornamento sul posto, installazione e avvio: superati;
+- 51 test strumentati e 8 unitari superati;
+- provato sul dispositivo con quattro clienti, nei due ordini e con la ricerca.
+
 ## Novità beta 25
 
 - chi si ritrova una password imposta dalle versioni precedenti la può **togliere al primo accesso**: l'app lo chiede una volta sola, subito dopo lo sblocco;
