@@ -9,6 +9,22 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 27
+
+- **nuova scheda Verifiche** nella barra in basso: tutte le letture di tutti i clienti, dalla più recente, con ricerca, modifica diretta ed esportazione dell'elenco su foglio di calcolo;
+- **lente di ricerca visibile** accanto al titolo di Clienti, Strumenti, Verifiche e Norme: prima era raggiungibile solo tenendo premuto il titolo e nessuno la trovava;
+- **freccia di importazione** accanto alla lente di Clienti e Strumenti, che porta direttamente al caricamento da file;
+- gruppo **Importazioni** nelle Impostazioni, con modulo di esempio sia per i clienti sia per gli strumenti;
+- i moduli contengono una riga di esempio commentata con `#`, che si legge ma non viene importata; i clienti già presenti con lo stesso nome vengono esclusi;
+- **schermata di avvio configurabile**: Clienti, Strumenti, Verifiche oppure l'ultima aperta, che riprende dalla scheda in cui si stava lavorando.
+
+### Verifica beta 27
+
+- SHA-256: `B3FA4ECB9CAF7299F4876A2D48AF986543F2DD2296058733227BCCA31FC9F155`
+- certificato SHA-256: `8a5e03eba7ba28786d2956aabcb12da21269bb5041b09f5f996b3e7d7ad899f8`
+- firma, ZIP alignment, metadati, identità del codice fra pacchetto pubblicato e gemello di prova, aggiornamento sul posto, installazione e avvio: superati;
+- 59 test strumentati e 8 unitari superati.
+
 ## Novità beta 26
 
 - nell'elenco clienti un **interruttore accanto al titolo** alterna due ordini: dall'ultimo cliente usato, oppure alfabetico;

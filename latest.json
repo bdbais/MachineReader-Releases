@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "0.1.0-beta26",
-  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/releases/download/v0.1.0-beta26/MachineReader-0.1.0-beta26.apk",
-  "notes": "Nell'elenco clienti un interruttore accanto al titolo alterna due ordini: dall'ultimo cliente usato oppure alfabetico. Tenendo premuto la scritta Clienti si apre una ricerca rapida; il filtro resta visibile accanto al titolo con una x per cancellarlo."
+  "versionCode": 27,
+  "versionName": "0.1.0-beta27",
+  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/releases/download/v0.1.0-beta27/MachineReader-0.1.0-beta27.apk",
+  "notes": "Nuova scheda Verifiche nella barra in basso: tutte le letture dalla piu' recente, con ricerca, modifica ed esportazione su foglio di calcolo. Una lente accanto al titolo di Clienti, Strumenti, Verifiche e Norme rende visibile la ricerca. Accanto alla lente di Clienti e Strumenti una freccia porta all'importazione da file, raccolta anche in un gruppo delle Impostazioni con modulo di esempio. Dalle Impostazioni si sceglie da quale schermata partire: Clienti, Strumenti, Verifiche oppure l'ultima aperta."
 }
