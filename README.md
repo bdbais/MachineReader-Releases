@@ -9,6 +9,21 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 25
+
+- chi si ritrova una password imposta dalle versioni precedenti la può **togliere al primo accesso**: l'app lo chiede una volta sola, subito dopo lo sblocco;
+- fino alla beta 23 la password era obbligatoria, quindi nessuno l'aveva scelta davvero: senza questa domanda la novità della beta 24 sarebbe rimasta invisibile a tutti;
+- chi attiva la password di sua iniziativa dalle Impostazioni non viene interrogato: ha già scelto;
+- la rimozione da una sessione già aperta non richiede di ridigitare la password, perché chi è dentro ha comunque accesso ai dati.
+
+### Verifica beta 25
+
+- SHA-256: `3DA29A3A9F35B72A363C8B5A534AD468C7762C9ED703FA9E089DECBB03927A49`
+- certificato SHA-256: `8a5e03eba7ba28786d2956aabcb12da21269bb5041b09f5f996b3e7d7ad899f8`
+- firma, ZIP alignment, metadati, identità del codice fra pacchetto pubblicato e gemello di prova, aggiornamento sul posto, installazione e avvio: superati;
+- 47 test strumentati e 8 unitari superati;
+- provato sul dispositivo: password ereditata, scelta proposta, rimozione, riavvio senza richiesta, dati intatti.
+
 ## Novità beta 24
 
 - **la password di accesso diventa facoltativa**: l'app parte senza chiederla e si attiva quando serve da Impostazioni, Sicurezza;

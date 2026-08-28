@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.1.0-beta24",
-  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/releases/download/v0.1.0-beta24/MachineReader-0.1.0-beta24.apk",
-  "notes": "La password di accesso diventa facoltativa: l'app parte senza chiederla e la attivi quando vuoi da Impostazioni, Sicurezza. Chi ha gia' una password la mantiene, non cambia nulla. Senza password l'archivio resta cifrato e legato a questo telefono, ma chi lo ha in mano puo' aprire l'app. Tolto il campo Link del logo dalla configurazione guidata, che non ha mai funzionato: la carta intestata si carica da Fornitore. Configurazione guidata ora in due passi."
+  "versionCode": 25,
+  "versionName": "0.1.0-beta25",
+  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/releases/download/v0.1.0-beta25/MachineReader-0.1.0-beta25.apk",
+  "notes": "Se avevi una password imposta dalle versioni precedenti, al primo accesso l'app ti chiede una volta sola se tenerla o toglierla: fino alla beta23 era obbligatoria e nessuno l'aveva davvero scelta. Puoi cambiare idea quando vuoi da Impostazioni, Sicurezza. Senza password l'archivio resta cifrato e legato al telefono, ma chi lo ha in mano puo' aprire l'app; togliendola decade anche l'accesso con impronta o volto, che protegge la stessa chiave."
 }
