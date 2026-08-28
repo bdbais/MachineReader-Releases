@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "0.1.0-beta23",
-  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/releases/download/v0.1.0-beta23/MachineReader-0.1.0-beta23.apk",
-  "notes": "Aggiornamento molto piu' leggero: 19 MB invece di 89, perche' il codice inutilizzato e le librerie per architetture non usate dai telefoni sono stati rimossi. Riparato il pulsante Inserisci dati manualmente dentro la schermata dello strumento, che non faceva nulla. Restano le novita' della beta22: PRIMA DI AGGIORNARE crea un backup cifrato dalle Impostazioni; al primo accesso l'archivio viene riscritto con la nuova protezione, non chiudere l'app; la password resta quella di prima; l'accesso con impronta o volto va riattivato una volta da Impostazioni, Sicurezza."
+  "versionCode": 24,
+  "versionName": "0.1.0-beta24",
+  "apkUrl": "https://github.com/bdbais/MachineReader-Releases/releases/download/v0.1.0-beta24/MachineReader-0.1.0-beta24.apk",
+  "notes": "La password di accesso diventa facoltativa: l'app parte senza chiederla e la attivi quando vuoi da Impostazioni, Sicurezza. Chi ha gia' una password la mantiene, non cambia nulla. Senza password l'archivio resta cifrato e legato a questo telefono, ma chi lo ha in mano puo' aprire l'app. Tolto il campo Link del logo dalla configurazione guidata, che non ha mai funzionato: la carta intestata si carica da Fornitore. Configurazione guidata ora in due passi."
 }

@@ -9,6 +9,27 @@ Repository pubblico per il download delle versioni beta di MachineReader.
 3. Aprire il file sul dispositivo Android e autorizzare l'installazione da questa fonte, se richiesto.
 4. Al primo avvio seguire i tre passaggi guidati: password, fornitore del servizio e primo cliente.
 
+## Novità beta 24
+
+- **la password di accesso diventa facoltativa**: l'app parte senza chiederla e si attiva quando serve da Impostazioni, Sicurezza;
+- chi ha già impostato una password la mantiene: aggiornando non cambia nulla;
+- senza password l'archivio resta cifrato e legato al telefono, ma chi lo ha in mano può aprire l'app; con la password attiva la chiave viene riavvolta dalla password e la copia apribile dal dispositivo viene eliminata;
+- attivare, cambiare o togliere la password non riscrive mai l'archivio: la chiave dei dati resta la stessa;
+- togliendo la password decade anche l'accesso biometrico, che proteggeva la stessa chiave;
+- senza password non vengono offerti biometria, riblocco automatico e cambio password, che non avrebbero nulla da proteggere;
+- tolto il campo «Link del logo» dalla configurazione guidata: non ha mai funzionato, perché quel valore è l'identificativo di un allegato cifrato e non un indirizzo. La carta intestata si carica da Fornitore;
+- configurazione guidata ridotta a due passi: fornitore e primo cliente.
+
+Per i pochi telefoni a 32 bit è disponibile [MachineReader-0.1.0-beta24-armeabi-v7a.apk](downloads/MachineReader-0.1.0-beta24-armeabi-v7a.apk).
+
+### Verifica beta 24
+
+- SHA-256: `387CEEC959379BC395D2F1FD873652619D3866616A2F137DBFBDE51196DF66D1`
+- certificato SHA-256: `8a5e03eba7ba28786d2956aabcb12da21269bb5041b09f5f996b3e7d7ad899f8`
+- firma, ZIP alignment, metadati, identità del codice fra pacchetto pubblicato e gemello di prova, aggiornamento sul posto, installazione e avvio: superati;
+- 45 test strumentati e 8 unitari superati;
+- provato sul dispositivo: aggiornamento da una versione con password, che viene mantenuta e apre i dati; installazione nuova che parte senza password; attivazione della password dalle Impostazioni e richiesta al riavvio successivo.
+
 ## Novità beta 23
 
 - pacchetto ridotto da 89 MB a **19 MB**: rimosso il codice non utilizzato e le librerie per architetture che i telefoni non usano;
